@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">feature-sample</string>
+    <string name="back_to_main">Go back</string>
+    <string name="beatle_not_found">Beatle not found</string>
+</resources>

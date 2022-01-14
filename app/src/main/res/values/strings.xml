@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DeepLinkNavigationSample</string>
+    <string name="navigate_john">See John</string>
+    <string name="navigate_paul">See Paul</string>
+    <string name="navigate_george">See George</string>
+    <string name="navigate_ringo">See Ringo</string>
+    <string name="access_manager_wait_message">Access Manager is routing request...</string>
+</resources>
